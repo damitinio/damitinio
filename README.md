@@ -1,14 +1,9 @@
 
-<!--
-    🐼 PANDA.exe
-    Anime developer profile
--->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:302b63,100:8e44ad&height=220&section=header&text=Welcome%20to%20my%20world&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Just%20another%20developer%20with%20main%20character%20syndrome&descAlignY=58&descSize=14" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:302b63,100:8e44ad&height=220&section=header&text=DAMITINIO&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Developer%20in%20progress%20%7C%20Panda%20enthusiast&descAlignY=58&descSize=15" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=C792EA&center=true&vCenter=true&width=600&lines=Hello%2C+world!+%F0%9F%91%8B;Python+%7C+HTML+%7C+Swift;Gaming+is+not+a+bug%2C+it's+a+feature;404%3A+Motivation+not+found;Panda+developer+has+entered+the+chat" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=C792EA&center=true&vCenter=true&width=600&lines=Hello%2C+world!+%F0%9F%91%8B;Python+%7C+HTML+%7C+Swift;Gaming+is+not+a+bug%2C+it's+a+feature;404%3A+Motivation+not+found;Panda+developer+has+entered+the+chat" alt="Typing SVG"/>
 
 ### 🐼 `> whoami`
 
@@ -27,7 +22,7 @@
 ```python
 class Developer:
     def __init__(self):
-        self.name = "Azimov Damir"
+        self.name = "damitinio"
         self.role = "Future Developer"
         self.languages = ["HTML", "Python", "Swift"]
         self.interests = [
@@ -43,21 +38,21 @@ class Developer:
         return "One more game. One more commit. One more bug."
 ```
 
-- 💻 Currently exploring the world of programming.
-- 🐍 Learning Python and building new things.
-- 🍎 Exploring Swift and its ecosystem.
-- 🌐 HTML is where the journey gets interesting.
-- 🎮 Counter-Strike enthusiast. Sometimes aim works. Sometimes.
-- 🐼 Official member of the Panda Appreciation Society.
-- 🚀 Goal: Build something people will actually use.
+- 💻 Exploring the world of programming.
+- 🐍 Learning Python.
+- 🍎 Exploring Swift.
+- 🌐 Building things with HTML.
+- 🎮 Counter-Strike enthusiast.
+- 🐼 Professional panda enjoyer.
+- 🚀 Dreaming of building something awesome.
 
 ## ⚡ Tech arsenal
 
 <div align="center">
 
-### Languages & technologies
+### Languages & tools
 
-<img src="https://skillicons.dev/icons?i=html,python,swift,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,python,swift,git,github,vscode&theme=dark"/>
 
 ### Currently learning
 
@@ -78,10 +73,10 @@ class Developer:
 </div>
 
 ```text
-🎯 Current missions:
+🎯 CURRENT MISSIONS
 
 [ ] Become better at programming
-[ ] Build a cool personal project
+[ ] Build my first cool project
 [ ] Master Python
 [ ] Learn Swift properly
 [ ] Improve my CS skills
@@ -94,11 +89,11 @@ class Developer:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c792ea&icon_color=bb9af7&text_color=c9d1d9"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=damitinio&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c792ea&icon_color=bb9af7&text_color=c9d1d9"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c792ea&text_color=c9d1d9"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damitinio&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c792ea&text_color=c9d1d9"/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=C792EA&fire=FF69B4&currStreakLabel=C792EA" width="65%"/>
+<img src="https://streak-stats.demolab.com?user=damitinio&theme=tokyonight&hide_border=true&background=0D1117&ring=C792EA&fire=FF69B4&currStreakLabel=C792EA" width="65%"/>
 
 </div>
 
@@ -106,7 +101,7 @@ class Developer:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%"/>
+<img src="https://raw.githubusercontent.com/damitinio/damitinio/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%"/>
 
 </div>
 
